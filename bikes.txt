@@ -1,0 +1,4 @@
+type is Jasion Number of gears: 7 cost: 500.0 tiresize: 22.0 batteryWatts: 350, batteryLife: 5.0
+type is Mountain Number of gears: 7 cost: 200.0$ tiresize: 20.0 inchs
+type is Maverick Number of gears: 5 cost: 1700.0$ tiresize: 26.0 inchs batteryWatts: 1000 batteryLife: 21.0 hours
+type is Jaison Number of gears: 4 cost: 300.0$ tiresize: 25.0 inchs batteryWatts: 650 batteryLife: 15.0 hours
